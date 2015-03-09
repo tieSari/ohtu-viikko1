@@ -1,4 +1,3 @@
 #tee .gitignore-tiedosto, jossa määrittelet että repositorion juurihakemistossa olevat tiedostot joiden pääte on xxx ja hakemisto jonka nimi #on target ignoroidaan
 *.xxx
 target/
-OhtuVarasto/target/
