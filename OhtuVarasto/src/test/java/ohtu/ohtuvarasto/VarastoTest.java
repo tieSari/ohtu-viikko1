@@ -76,6 +76,7 @@ public class VarastoTest {
     }
     
     @Test
+    //muutos
     public void otaLiikaaPalauttaaNolla() {
         varasto.lisaaVarastoon(10);
         varasto.otaVarastosta(11);
