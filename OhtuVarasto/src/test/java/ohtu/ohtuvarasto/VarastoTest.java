@@ -78,7 +78,7 @@ public class VarastoTest {
     @Test
     public void otaLiikaaPalauttaaNolla() {
         varasto.lisaaVarastoon(10);
-        varasto.otaVarastosta(9);
+        varasto.otaVarastosta(11);
         assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
     }
 
